@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+# Olá 👋, aqui Júlio Rafael
 
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Sou moçambicano, desenvolvedor de aplicações e entusiasta em Análise de dados, usando as seguintes tecnologias:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
